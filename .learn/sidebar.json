@@ -1,0 +1,47 @@
+{
+  "01-hello-world": {
+    "us": "01-hello-world"
+  },
+  "02-sum-divisable": {
+    "us": "02-sum-divisable"
+  },
+  "03-print-tic-toc": {
+    "us": "03-print-tic-toc"
+  },
+  "04-longest-word": {
+    "us": "04-longest-word"
+  },
+  "05-letter-changes": {
+    "us": "05-letter-changes"
+  },
+  "06-filter-friends": {
+    "us": "06-filter-friends"
+  },
+  "07-reduce-gifts": {
+    "us": "07-reduce-gifts"
+  },
+  "08-validate-username": {
+    "us": "08-validate-username"
+  },
+  "09-find-Intersection": {
+    "us": "09-find-Intersection"
+  },
+  "10-first-reverse": {
+    "us": "10-first-reverse"
+  },
+  "11-find-missing-number": {
+    "us": "11-find-missing-number"
+  },
+  "12-balanced-string-of-brackets": {
+    "us": "12-balanced-string-of-brackets"
+  },
+  "13-longest-substring-without-repeating-chars": {
+    "us": "13-longest-substring-without-repeating-chars"
+  },
+  "14-two-sum": {
+    "us": "14-two-sum"
+  },
+  "15-maximum-subarray-sum": {
+    "us": "15-maximum-subarray-sum"
+  }
+}
