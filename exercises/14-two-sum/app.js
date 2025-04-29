@@ -1,5 +1,3 @@
-
-
 function checkArray(nums,target) {
     let solution = [];
    
